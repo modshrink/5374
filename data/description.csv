@@ -3,5 +3,5 @@ label,sublabel,description,styles,bgcolor
 プラスチックごみ,,,img/shigen02.svg,#77ae1f
 燃やすごみ,,,img/moyasu02.svg,#ea3b13
 びん・スプレー缶・有害ごみ,,,img/bin02.svg,#2dc7aa
-ペットボトル・空き缶・金属,,,img/bin02.svg,#2dc7aa
-古紙・布,,,img/bin02.svg,#2dc7aa
+ペットボトル・空き缶・金属,,,img/bin02.svg,#77ae1f
+古紙・布,,,img/bin02.svg,#08b925
