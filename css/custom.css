@@ -14,8 +14,7 @@ font-family:".HiraKakuInterface-W1",'Lucida Grande',
 
 .accordion-group{margin-bottom:0;border:0;border-radius:0}
 
-#accordion3 
-a.accordion-toggle-top{
+.accordion a.accordion-toggle-top{
 	margin: 0;
 	text-align: left;
 	font-size: 25px;
@@ -23,31 +22,31 @@ a.accordion-toggle-top{
 
 }
 
-#accordion3 h2{
+.accordion h2{
 	font-size: 25px;
 	margin-top: 40px;
 }
 
-#accordion3 #cfi{
+.accordion #cfi{
 	border-top: 1px solid black;
 }
 
-#accordion3 #cfk{
+.accordion #cfk{
 	border-top: 1px solid black;
 }
 
-#accordion3 h3{
+.accordion h3{
 	font-weight: bold;
 	font-size: 16px;
 	margin-top: 15px;
 }
 
-#accordion3 #caption{
+.accordion #caption{
 	font-size: 12px;
 	color: #7F7F7F;
 	margin-top: 30px;
 }
-#accordion3 #caption h4{
+.accordion #caption h4{
 	font-size: 12px;
 	font-weight: bold;
 }
@@ -68,6 +67,11 @@ a.accordion-toggle-top:hover{
 .accordion-group-top{background-color:  #ffffff;}
 
 .accordion-inner ul {color:#ffffff;}
+
+.accordion-inner a {
+	color: blue;
+	text-decoration: underline;
+}
 
 #accordion2 {display: none;}
 #accordion2 .accordion-inner {text-align: center}
